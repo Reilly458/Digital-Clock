@@ -21,5 +21,7 @@ Design a 3D printable housing and circuitry for a wall powered digital clock. En
 
 ## Resources/Reference:
 Arduino replica board https://www.instructables.com/DIY-Arduino-UNO-How-to-Make-Your-Own-Arduino-Uno-B/ 
+
 Arduino reference schematic https://www.arduino.cc/en/uploads/Main/arduino-uno-schematic.pdf
+
 Circuitry and code reference https://www.hackster.io/mohammadsohail0008/arduino-digital-clock-0e9c11
