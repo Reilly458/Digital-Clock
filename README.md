@@ -6,10 +6,10 @@ Design a 3D printable housing and circuitry for a wall powered digital clock. En
 
 ## Tasks: 
 ### Completed 
-- Circuitry prototype
+- Circuitry for prototype
 - Prototype code
 - Arduino replica schematic and PCB layout
-- Main housing unit with ventilation and LCD screem mounting
+- Main housing unit with ventilation and LCD screen mounting
   
 
 ### To Do 
@@ -18,6 +18,7 @@ Design a 3D printable housing and circuitry for a wall powered digital clock. En
 - Design backing and power adapter mounting
 - 3D print housing
 - Design circuitry with a voltage regulator to handle voltage from a wall outlet
+- Fix code bugs for button debouncing and reset zeroing
 
 ## Resources/Reference:
 Arduino replica board https://www.instructables.com/DIY-Arduino-UNO-How-to-Make-Your-Own-Arduino-Uno-B/ 
